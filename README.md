@@ -19,6 +19,6 @@ Un site concurrent de Pinterest
 - Chaque pin contient une URL d'une image sur le net
 - Les utilisateurs peuvent commenter les pins mais ne peuvent pas commenter les commentaires
 
-## La team
+## worker
+Fais par amour et par la première personne du singulier. Michael-Luxus. ;)
 
-Ce programme est made in Strasbourg, by Soraya FRUCTUOSO, Samaneh VAEZI et Hugo PAYET avec amour ! Bonne correction les amis :kissing_heart:
